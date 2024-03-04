@@ -1,0 +1,9 @@
+{
+    "name": "Ollama Embeddings Integration",
+    "version": "0.0.1",
+    "description": "A plugin to use Ollama Embeddings",
+    "author_name": "pazoff",
+    "plugin_url": "https://github.com/pazoff/ollama-embeddings-integration",
+    "tags": "ollama, integrations, embedder, embeddings",
+    "thumb": "https://raw.githubusercontent.com/pazoff/ollama-embeddings-integration/main/ollama-logo.png"
+}
