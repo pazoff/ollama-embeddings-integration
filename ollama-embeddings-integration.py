@@ -14,7 +14,7 @@ class OllamaEmbedderConfig(EmbedderSettings):
     model_config = ConfigDict(
         json_schema_extra = {
             "humanReadableName": "Ollama Embedder",
-            "description": "A high-performing open embedding model with a large token context window",
+            "description": "A high-performing open embedding model with 8192 tokens context window",
             "link": "https://ollama.com/library/nomic-embed-text",
         }
     )
